@@ -1,0 +1,230 @@
+.nav{
+    display: flex;
+    position: relative;
+    height: 120px;
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+font: normal normal bold 28px/36px Helvetica;
+letter-spacing: 0px;
+color: #354463;
+opacity: 1;
+    
+}
+
+.main-box{
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 85vw;
+    background-color: #354463;
+    padding: 8vw 10vw;
+    box-sizing: border-box;
+    background-image: url('/annie.png');
+    flex-direction: row;
+}
+
+.form-box{
+    display: flex;
+    width: 50%;
+    position: relative;
+    height: 100%;
+    background-color: #354463;
+    padding: 5%;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
+.half-form{
+    display: flex;
+    width: 100%;
+    position: relative;
+    height: 50%;
+    box-sizing: border-box;
+    flex-direction: column;
+
+}
+.main-text{
+    display: flex;
+    width: 50%;
+    position: relative;
+    height: 100%;
+    
+    text-align: left;
+font: normal normal normal 72px/76px Flood Std;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+padding: 0 8%;
+    justify-content: center;
+    box-sizing: border-box;
+    
+}
+
+.form-head{
+    display: flex;
+    position: relative;
+    text-align: left;
+font: normal normal bold 28px/36px Helvetica;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+width: 80%;
+height: 2rem;
+margin-bottom: 10px;
+
+
+}
+
+.sec-box{
+    display: flex;
+    position: relative;
+    height: 62px;
+    width: 100%;    
+    margin: 10px 0;
+    justify-content: space-between;
+}
+
+
+.half-box{
+    display: flex;
+    position: relative;
+    height: 62px;
+    width: 45%;
+    flex-direction: column;
+    
+    border-bottom: 2px solid #C1F7D5;
+    
+
+}
+
+.name-tag{
+    text-align: left;
+font: normal normal normal 14px/17px Helvetica;
+letter-spacing: 0.56px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+
+.place-holder{
+    display: flex;
+    position: relative;
+    align-items: center;
+    margin: 5px 0;
+    text-align: left;
+font: normal normal 300 20px/32px Helvetica;
+letter-spacing: -0.4px;
+color: #FFFFFF;
+opacity: 0.2;
+
+}
+
+.full-box{
+    display: flex;
+    position: relative;
+    height: 62px;
+    width: 100%;
+    flex-direction: column;
+    
+    border-bottom: 2px solid #C1F7D5;
+}
+
+.quter-box{
+    display: flex;
+    position: relative;
+    height: 62px;
+    width: 22%;
+    flex-direction: column;
+    border-bottom: 2px solid #C1F7D5;
+}
+
+
+.button{
+    position:relative;
+    display: flex;
+    width: 256px;
+    height: 56px;
+  border-radius: 34px;
+  border: none;
+  color: white;
+  background: #C1F7D5;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+font: normal normal bold 22px/28px Helvetica;
+letter-spacing: 0px;
+color: #354463;
+opacity: 1;
+  
+}
+
+.foot-box{
+    display: flex;
+    position: relative;
+    height: 56px;
+    width: 100%;
+    justify-content: space-between;
+
+}
+
+.foot-text{
+    text-align: left;
+text-decoration: underline;
+font: normal normal 300 16px/56px Helvetica;
+letter-spacing: -0.16px;
+color: #C1F7D5;
+opacity: 1;
+}
+
+
+
+
+
+.bottom {
+    position: relative;
+    width: 1440px;
+    height: 371px;
+    background-color: #ffffff;
+    display: flex;
+    box-sizing: border-box;
+    padding: 100px;
+  }
+  
+  .bottom ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly; /* Spread the cards evenly */
+    gap: 25px;
+  }
+  .b-title {
+    display: flex;
+    width: 400px;
+    height: 81px;
+  }
+  
+  .b-cards {
+    width: 126px;
+    height: 94px;
+  }
+  
+  .card-top {
+    text-align: left;
+    font: normal normal normal 14px/17px Helvetica;
+  }
+  
+  .card-ds {
+    font: normal normal 300 14px/20px Helvetica;
+    letter-spacing: -0.14px;
+  }
+  
+  .b-image {
+    justify-items: center;
+    align-items: center;
+    display: flex;
+    padding: 20px;
+    position: relative;
+  }
+  
+  
