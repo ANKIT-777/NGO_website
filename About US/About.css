@@ -101,7 +101,7 @@ nav {
     width: 100%; /* Ensure the container takes up the full width of its parent. */
     height: 25rem; /* Create a height context for padding-bottom. */
     display: flex;
-    background-image: url('/anniebag.png'); /* Replace 'your-image.jpg' with the path to your image. */
+    background-image: url('assets/anniebag.png'); /* Replace 'your-image.jpg' with the path to your image. */
     box-sizing: border-box;
     flex-wrap: wrap;
     background-position: center center;
@@ -266,7 +266,7 @@ color: #FFFFFF;
 .icons{
     width: 50%;
     height: 40%;
-    background-color: #fff;    
+    
 }
 .mid-bold{
     width: 100%;
@@ -424,7 +424,7 @@ opacity: 1;
     width: 100%;
     height: 670px;
     background-color: #354463;
-    background-image: url('/imgs/Impact Background.png');
+    background-image: url('assets/imgs/Impact Background.png');
     padding: 8%;
     box-sizing: border-box;
     justify-content: space-between;
