@@ -21,7 +21,7 @@ opacity: 1;
     background-color: #354463;
     padding: 8vw 10vw;
     box-sizing: border-box;
-    background-image: url('/annie.png');
+    background-image: url('assets/annie.png');
     flex-direction: row;
 }
 
